@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e414bc0e69f172f68eea6ea537606bb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4494dcbe1b67da7c38178e23e27113d6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\0dd0c133dd120fb4bf6a1e700c7736c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\11856f1f85602c6e2965bdb5a1a1fca7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09106147776ecf7b698d8dd97552128d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b4cbb80367e9ef814526bdf9546917ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\bb6113f706070d3a5a9403eeb163e948\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c73c95bcf8e7ad8cdb0c277a67fb0a67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\70ca61b8981ab3fea4c4d94ca50bca2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f3a6be80c983448d3bdf8523d0916e4e\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4494dcbe1b67da7c38178e23e27113d6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4494dcbe1b67da7c38178e23e27113d6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.vinic.tp.MainActivity
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.vinic.tp.Atividade
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:19:19-44
+activity#com.example.vinic.tp.FragmentMenu
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.vinic.tp.Adicionar
+ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml:21:19-44
+uses-sdk
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e414bc0e69f172f68eea6ea537606bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\e414bc0e69f172f68eea6ea537606bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4494dcbe1b67da7c38178e23e27113d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4494dcbe1b67da7c38178e23e27113d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\0dd0c133dd120fb4bf6a1e700c7736c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\0dd0c133dd120fb4bf6a1e700c7736c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\11856f1f85602c6e2965bdb5a1a1fca7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\11856f1f85602c6e2965bdb5a1a1fca7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09106147776ecf7b698d8dd97552128d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09106147776ecf7b698d8dd97552128d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b4cbb80367e9ef814526bdf9546917ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b4cbb80367e9ef814526bdf9546917ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\bb6113f706070d3a5a9403eeb163e948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\bb6113f706070d3a5a9403eeb163e948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c73c95bcf8e7ad8cdb0c277a67fb0a67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c73c95bcf8e7ad8cdb0c277a67fb0a67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\70ca61b8981ab3fea4c4d94ca50bca2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\70ca61b8981ab3fea4c4d94ca50bca2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f3a6be80c983448d3bdf8523d0916e4e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f3a6be80c983448d3bdf8523d0916e4e\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vinic\Desktop\TP\app\src\main\AndroidManifest.xml

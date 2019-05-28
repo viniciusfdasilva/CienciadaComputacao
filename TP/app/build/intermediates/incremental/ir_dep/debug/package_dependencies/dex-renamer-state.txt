@@ -1,0 +1,4 @@
+#Sun Jun 17 23:48:59 BRT 2018
+base.0=C\:\\Users\\vinic\\Desktop\\TP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
