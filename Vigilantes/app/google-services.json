@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84609870138",
+    "firebase_url": "https://vigilantes-898e4.firebaseio.com",
+    "project_id": "vigilantes-898e4",
+    "storage_bucket": "vigilantes-898e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84609870138:android:0b21593aa3839c9e",
+        "android_client_info": {
+          "package_name": "com.work.vigilantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84609870138-sph878v4jci2o0789g9dfjipqub5iv00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work.vigilantes",
+            "certificate_hash": "0ce7c34fc80848f56e7b0db774a746f84a8ca064"
+          }
+        },
+        {
+          "client_id": "84609870138-t82mb3e57pii0tma414a3k731o34sehb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKL8u8JDgwm9ynQ5PpReJ5vwW5lGe47h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84609870138-t82mb3e57pii0tma414a3k731o34sehb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Vigilantes</string>
+
+    <string name="naopossuicadastro">Não possui cadastro? Cadastre-se!</string>
+    <string name="logar">Logar</string>
+
+    <string-array name="createUserExceptions">
+        <item>Senha incorreta! Digite uma senha mais forte!</item>
+        <item>Email incorreto! Formato de email inválido!</item>
+        <item>Existe esse email em nossos cadastros! Use outro!</item>
+        <item>Não conseguimos realizar seu cadastro! Tente novamente!</item>
+    </string-array>
+
+    <string name="inicio">Iniciando...</string>
+    <string name="iniciosistema">Aguarde enquanto iniciamos o sistema!</string>
+
+    <string-array name="signInExceptions">
+        <item>Usuário não existe em nossos cadastros!</item>
+        <item>Email incorreto! Formato de email inválido!</item>
+        <item>Não conseguimos realizar seu cadastro! Tente novamente!</item>
+    </string-array>
+
+    <string name="seguir">Seguir</string>
+    <string name="vazio">Existem campos que devem ser preenchidos!</string>
+    <string name="datavalida">Esta data é inválida!</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sair">Sair</string>
+    <string name="enviar">Enviar</string>
+    <string name="novo">Novo</string>
+
+    <string-array name="tipPessoa">
+        <item>Físico</item>
+        <item>Jurídico</item>
+    </string-array>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+</resources>
